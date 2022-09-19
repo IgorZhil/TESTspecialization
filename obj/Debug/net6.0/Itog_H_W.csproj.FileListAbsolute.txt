@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GB\Itog_H_W\bin\Debug\net6.0\Itog_H_W.exe
+C:\Users\user\Documents\GB\Itog_H_W\bin\Debug\net6.0\Itog_H_W.deps.json
+C:\Users\user\Documents\GB\Itog_H_W\bin\Debug\net6.0\Itog_H_W.runtimeconfig.json
+C:\Users\user\Documents\GB\Itog_H_W\bin\Debug\net6.0\Itog_H_W.dll
+C:\Users\user\Documents\GB\Itog_H_W\bin\Debug\net6.0\Itog_H_W.pdb
+C:\Users\user\Documents\GB\Itog_H_W\obj\Debug\net6.0\Itog_H_W.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GB\Itog_H_W\obj\Debug\net6.0\Itog_H_W.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GB\Itog_H_W\obj\Debug\net6.0\Itog_H_W.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GB\Itog_H_W\obj\Debug\net6.0\Itog_H_W.AssemblyInfo.cs
+C:\Users\user\Documents\GB\Itog_H_W\obj\Debug\net6.0\Itog_H_W.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GB\Itog_H_W\obj\Debug\net6.0\Itog_H_W.dll
+C:\Users\user\Documents\GB\Itog_H_W\obj\Debug\net6.0\refint\Itog_H_W.dll
+C:\Users\user\Documents\GB\Itog_H_W\obj\Debug\net6.0\Itog_H_W.pdb
+C:\Users\user\Documents\GB\Itog_H_W\obj\Debug\net6.0\Itog_H_W.genruntimeconfig.cache
+C:\Users\user\Documents\GB\Itog_H_W\obj\Debug\net6.0\ref\Itog_H_W.dll
